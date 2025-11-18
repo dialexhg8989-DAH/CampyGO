@@ -1,0 +1,8 @@
+{
+  "name": "CampyGo: Mototaxi GPS",
+  "description": "A ride-sharing application for mototaxis in rural Colombia, connecting passengers and drivers efficiently. This app provides a platform for users to book rides and for drivers to find passengers, all with GPS tracking and fare estimation.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
